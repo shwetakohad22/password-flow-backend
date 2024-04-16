@@ -20,7 +20,7 @@ Welcome to the Password Reset and User Management API! This repository contains 
 
 To get started with the Password Reset and User Management API, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `(https://github.com/HarikaranSubramanian/NodeJsTask-4-Password-Reset-BE.git)`.
+1. **Clone the Repository**: Clone this repository to your local machine using 
 
 2. **Install Dependencies**: Install the necessary dependencies by running `npm install`.
 
@@ -32,7 +32,7 @@ To get started with the Password Reset and User Management API, follow these ste
 
 6. **Testing**: Test the API endpoints using tools like Postman or curl to ensure everything is working as expected.
 
-7. **Deployment**: Deploy the API to Render or any other hosting provider by following their deployment instructions. You can find the deployed application [here](https://nodejstask-4-password-reset-be.onrender.com).
+.
 
 ## API Endpoints
 
@@ -42,12 +42,6 @@ To get started with the Password Reset and User Management API, follow these ste
 - `POST /forgotPassword`: Request a password reset.
 - `POST /resetPassword`: Reset password using the provided token.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/feature-name`).
 3. Make your changes.
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature/feature-name`).
